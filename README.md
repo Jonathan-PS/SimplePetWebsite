@@ -4,5 +4,5 @@ _Author Jonathan Stang_
 https://github.com/Jonathan-PS/SimplePetWebsite
 
 
-Preview on Heroku: https://simple-pet-website-jps.herokuapp.com/
+Easy of use: https://simple-pet-website-jps.herokuapp.com/
 
